@@ -1,9 +1,8 @@
 
 # Project Title
-
-A brief description of what this project does and who it's for
-
-## Tech Stack
+Weatherio App
+# Description
+This App can fetch all data from openweather.com with the api and get the current status of data and information about the weather## Tech Stack.
 
 **Languages & Tech:** HTML, CSS, JavaScript, API
 
